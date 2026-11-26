@@ -1,0 +1,3 @@
+[
+{"eps_ttm": {"type": "str", "length": 7, "preview": "\"EPS TTM\""}, "bvps": {"type": "str", "length": 4, "preview": "\"BVPS\""}, "net_profit_ttm": {"type": "str", "length": 14, "preview": "\"Net Profit TTM\""}, "revenue_ttm": {"type": "str", "length": 11, "preview": "\"Revenue TTM\""}}
+]

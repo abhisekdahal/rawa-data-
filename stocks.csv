@@ -1,0 +1,2 @@
+symbol,company,sector,ltp,percent_change,open,high,low,previous_close,volume,turnover,as_of_utc,week_52_high,week_52_low,eps,book_value,shares_outstanding,pe_ratio,pb_ratio,roe_percent,roa_percent,graham_number,listed_date,installed_capacity,operation_date,per_mega_watt_cost,normal_pay_back,source_file
+RAWA,Rawa Energy Development Limited,Hydro Power,437,0.92,434,446.9,434,433,68844,30366844.4,2026-11-26T10:12:12.000000Z,835,393,11.76,91.08,2800000,37.16,4.8,13.83,5.01,155.25,2023-07-04,3,,21.55,8.89,rawa.html
